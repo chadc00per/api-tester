@@ -1,0 +1,11 @@
+{
+  "name": "api-tester",
+  "version": "1.0.0",
+  "main": "runapi.sh",
+  "scripts": {
+    "test": "bash runapi.sh ./"
+  },
+  "author": "chadc00per",
+  "license": "Non-commercial",
+  "description": "API & Command Tester"
+}
