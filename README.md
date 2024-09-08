@@ -4,10 +4,9 @@ This script extracts command from lines starting with ///// or ##### from the pr
 It runs each command and prints the input command and output result one by one, optionally in markdown.
 
 Prepare your files to use this script by adding ///// or ##### at start of a line.
-###### Example:
-`/////` or `#####`
-`///// curl -X GET /api/endpoint`
-`##### curl -X POST /api/endpoint`
+###### Example: `/////` or `#####`
+- `///// curl -X GET /api/endpoint`
+- `##### curl -X POST /api/endpoint`
 
 ## Usage: 
 ```bash
