@@ -8,8 +8,8 @@
 # Prepare your files to use this script by adding ///// or ##### at start of a line.
 #   Example:
 #   /////
-#   ///// GET /api/endpoint
-#   ///// POST /api/endpoint
+#   ///// curl -X GET /api/endpoint
+#   ///// curl -X POST /api/endpoint
 
 # Usage: ./runapi.sh <file|directory> --markdown --responseType <type>
 
